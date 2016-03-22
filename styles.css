@@ -1,3 +1,7 @@
+body {
+    background-color: #fff;
+}
+
 @media screen and (min-width: 600px) {
 
 .top-nav .header .logo .logo-text {
@@ -5,11 +9,11 @@
 }
 
 .post-heading .post-title {
-	font-size: 32px;
+	font-size: 48px;
 }
 
 .post {
-	height: 150px;
+	height: 250px;
 }
 
 }
@@ -31,4 +35,10 @@
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
+    background-color: #1E0045;
+
+}
+
+.dark-bg {
+    
 }
