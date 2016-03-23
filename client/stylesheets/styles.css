@@ -9,12 +9,21 @@ body {
 }
 
 .post-heading .post-title {
-	font-size: 48px;
+	font-size: 42px;
     text-transform: uppercase;
+    line-height: 52px;
 }
 
 .post {
 	height: 250px;
+}
+
+.post-thumbnail-link {
+    width: 200px;
+}
+
+.posts-list .post-thumbnail {
+    margin-right: 25px;
 }
 
 }
