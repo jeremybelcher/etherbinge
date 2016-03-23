@@ -62,3 +62,11 @@ body {
     border: 1px;
     border-color: #1E0045;
 }
+
+.hero .hero-inner {
+    min-height: 300px;
+}
+
+.hero .copy {
+    top: 33%;
+}
