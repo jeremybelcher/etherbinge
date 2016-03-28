@@ -63,10 +63,15 @@ body {
     border-color: #1E0045;
 }
 
-.hero .hero-inner {
-    min-height: 300px;
+.hero {
+    box-shadow: none;
 }
 
-.hero .copy {
-    top: 33%;
+.hero .hero-inner {
+    min-height: 300px;
+    background-color: #1E0045;
+}
+
+.hero .copy h1 {
+    font-size: 8em;
 }
